@@ -1,2 +1,3 @@
 # bookbot
-boot.dev code for bookbot
+
+Sample application with python and other stuff.
